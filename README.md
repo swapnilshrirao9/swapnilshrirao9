@@ -14,7 +14,7 @@
 
 ### 📌 Featured Repositories & GitOps Command Center
 * [helm-jenkins](https://github.com/swapnilshrirao9/helm-jenkins) - Automated Jenkins deployments via Helm charts on Kubernetes.
-* [argocd-servicenow-helm](https://github.com/swapnilshrirao9/argocd-servicenow-helm) - GitOps synchronization integrated with enterprise ticketing.
+* [argocd-helm-AWX](https://github.com/swapnilshrirao9/AWX_helm2) - GitOps synchronization integrated with enterprise ticketing.
 * [AWX_helm2](https://github.com/swapnilshrirao9/AWX_helm2) - Containerized Ansible AWX deployments using Helm.
 * [k3s-awx-setup](https://github.com/swapnilshrirao9/k3s-awx-setup) - Lightweight Kubernetes clustering with integrated AWX.
 * [yaml_pipeline_jenkins](https://github.com/swapnilshrirao9/yaml_pipeline_jenkins) - Declarative YAML-based CI/CD pipelines in Jenkins.
