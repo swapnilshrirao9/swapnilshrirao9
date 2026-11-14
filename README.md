@@ -13,7 +13,7 @@
 ---
 
 ### 📌 Featured Repositories & GitOps Command Center
-* [AI-GithubAction](https://github.com/swapnilshrirao9/AI-GithubAction) - A GitHub Action powered by AI to automate workflows.
+* [AI-GithubAction]((https://github.com/swapnilshrirao9/GITHUBAction-AI-Inslight) - A GitHub Action powered by AI to automate workflows.
 * [helm-jenkins](https://github.com/swapnilshrirao9/helm-jenkins) - Automated Jenkins deployments via Helm charts on Kubernetes.
 * [argocd-helm-AWX](https://github.com/swapnilshrirao9/AWX_helm2) - GitOps synchronization integrated with enterprise ticketing.
 * [AWX_helm2](https://github.com/swapnilshrirao9/AWX_helm2) - Containerized Ansible AWX deployments using Helm.
