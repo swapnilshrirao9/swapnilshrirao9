@@ -14,8 +14,8 @@
 
 ### 📌 Featured Repositories & GitOps Command Center
 * [AI-GithubAction](https://github.com/swapnilshrirao9/GITHUBAction-AI-Inslight) - A GitHub Action powered by AI to automate workflows.
-* [helm-jenkins](https://github.com/swapnilshrirao9/helm-jenkins) - Automated Jenkins deployments via Helm charts on Kubernetes.
-* [argocd-helm-AWX](https://github.com/swapnilshrirao9/AWX_helm2) - GitOps synchronization integrated with enterprise ticketing.
+* [Helm-Setup-Jenkins](https://github.com/swapnilshrirao9/helm-jenkins) - Automated Jenkins deployments via Helm charts on Kubernetes.
+* [Create-AKS_WithArgocd_Helm Deploy_AWX](https://github.com/swapnilshrirao9/AWX_helm2) - GitOps synchronization integrated with enterprise ticketing.
 * [AWX_helm2](https://github.com/swapnilshrirao9/AWX_helm2) - Containerized Ansible AWX deployments using Helm.
 * [k3s-awx-setup](https://github.com/swapnilshrirao9/k3s-awx-setup) - Lightweight Kubernetes clustering with integrated AWX.
 * [yaml_pipeline_jenkins](https://github.com/swapnilshrirao9/yaml_pipeline_jenkins) - Declarative YAML-based CI/CD pipelines in Jenkins.
