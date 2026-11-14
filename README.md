@@ -23,4 +23,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Swapnil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=swapnilshrirao9&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=swapnilshrirao9&theme=radical)](https://git.io/streak-stats)
